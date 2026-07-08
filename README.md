@@ -3,7 +3,7 @@ website: "Município de Penamacor"          # Entre as aspas escreve o nome do w
 date: "31/12/1999"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://www.cm-penamacor.pt/"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://www.cm-penamacor.pt/ficha-tecnica/declaracao-de-acessibilidade-e-usabilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
-owner: "nome_do_proprietário"         # Entre as aspas escrever o nome do owner do website
+owner: "CM Penamacor"         # Entre as aspas escrever o nome do owner do website
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 validity: "dd/mm/aaaa a dd/mm/aaaa" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
 status: "Auditoria a decorrer" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
